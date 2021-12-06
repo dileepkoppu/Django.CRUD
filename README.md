@@ -1,7 +1,7 @@
 ## To start this project..<br />
 >after cloning the project from github,we have to change the folder.<br />
 ```bash
-cd store
+cd \Django.CRUD
 ```
 
 >then we have to create virtual environment.<br />
