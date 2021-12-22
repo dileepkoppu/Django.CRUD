@@ -21,7 +21,11 @@ pipenv install -r requirements.txt
 py manage.py runserver
 ```
 >currently we have three users in our database.among them two are staff and another one is normal user.<br />
-```     usernames(staff) - dileep,hari
-     password - 123
-     username(normal) - suresh
-     password - 123
+>
+| username | Role | password |
+| ------------- | ------------- | ------------- | 
+| dileep | staff | 123 |
+| hari | staff | 123 |
+| suresh | normal | 123 |
+
+
